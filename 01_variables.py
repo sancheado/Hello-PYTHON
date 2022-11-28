@@ -1,6 +1,3 @@
-#Hola Python
-print("Hola Python")
-
 # Variables
 my_string_variable = "Las variables me las saco de los cojones amigo!."
 print("my_string_variable: " , my_string_variable)
@@ -44,3 +41,9 @@ print(age)
 address: str = "Mi dirección"
 address = 32
 print(type(address))
+
+'''
+Este también es un 
+comentario 
+en varias lineas
+'''
